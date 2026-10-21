@@ -1,0 +1,17 @@
+# Carpetas de compilación
+bin/
+obj/
+
+# Archivo de datos (se regenera al probar el programa)
+expedientes.txt
+derivaciones.txt
+
+# Archivos internos de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Otros
+*.log
